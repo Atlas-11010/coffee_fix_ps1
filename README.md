@@ -1,4 +1,4 @@
-PS> cd C:\my_path\yada_yada path to where ever you saved the ps1\ (enter)
+PS> cd C:\my_path\yada_yada path to where ever you saved the ps1 (enter)
 
 then
 
